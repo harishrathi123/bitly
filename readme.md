@@ -27,6 +27,7 @@
 - Can use repository to easily mock database dependency
 - - not done here, as persistance was not a requirement
 - FastEndpoints - provides all the goodies, but lot more stuff with it
+- Docker containers: not done, as it was not a requirement
 
 
 ## Running the code
